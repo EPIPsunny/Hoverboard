@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=c8t6-R-1
+Removed Pin From Net: NetName=GND Pin=c8t6-R-2
+Removed Pin From Net: NetName=B11 Pin=c8t6-R-5
+Removed Pin From Net: NetName=B10 Pin=c8t6-R-6
+Removed Pin From Net: NetName=B1 Pin=c8t6-R-7
+Removed Pin From Net: NetName=B0 Pin=c8t6-R-8
+Removed Pin From Net: NetName=A7 Pin=c8t6-R-9
+Removed Pin From Net: NetName=A5 Pin=c8t6-R-11
+Removed Pin From Net: NetName=A4 Pin=c8t6-R-12
+Removed Pin From Net: NetName=A1 Pin=c8t6-R-15
+Removed Pin From Net: NetName=A0 Pin=c8t6-R-16
+Removed Pin From Net: NetName=A8 Pin=tb6612-R-1
+Removed Pin From Net: NetName=B13 Pin=tb6612-R-2
+Removed Pin From Net: NetName=B12 Pin=tb6612-R-3
+Removed Pin From Net: NetName=5V Pin=tb6612-R-4
+Removed Pin From Net: NetName=B14 Pin=tb6612-R-5
+Removed Pin From Net: NetName=B15 Pin=tb6612-R-6
+Removed Pin From Net: NetName=A11 Pin=tb6612-R-7
+Removed Pin From Net: NetName=GND Pin=tb6612-R-8
+Added Pin To Net: NetName=5V Pin=UART-1
+Added Member To Class: ClassName=平衡车 Member=Component c8t6-L
+Added Member To Class: ClassName=平衡车 Member=Component UART
+Added Room: Name=平衡车

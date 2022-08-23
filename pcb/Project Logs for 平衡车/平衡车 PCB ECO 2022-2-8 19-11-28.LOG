@@ -1,0 +1,95 @@
+Added Component: Designator=c8t6-L(HDR2.54-M-LI-20P)
+Added Component: Designator=c8t6-R(HDR2.54-M-LI-20P)
+Added Component: Designator=DC-DC(DC-DC)
+Added Component: Designator=motor-L(HDR2.54-WI-6P)
+Added Component: Designator=motor-R(HDR2.54-WI-6P)
+Added Component: Designator=mpu6050(HDR2.54-M-LI-6P)
+Added Component: Designator=oled(HDR2.54-M-LI-7P)
+Added Component: Designator=POWER-7.4V(HDR2.54-LI-2P)
+Added Component: Designator=tb6612-L(HDR2.54-M-LI-8P)
+Added Component: Designator=tb6612-R(HDR2.54-M-LI-8P)
+Added Component: Designator=UART(HDR2.54-M-LI-4P)
+Added Pin To Net: NetName=B12 Pin=c8t6-L-1
+Added Pin To Net: NetName=B13 Pin=c8t6-L-2
+Added Pin To Net: NetName=B14 Pin=c8t6-L-3
+Added Pin To Net: NetName=B15 Pin=c8t6-L-4
+Added Pin To Net: NetName=A8 Pin=c8t6-L-5
+Added Pin To Net: NetName=A9 Pin=c8t6-L-6
+Added Pin To Net: NetName=A10 Pin=c8t6-L-7
+Added Pin To Net: NetName=A11 Pin=c8t6-L-8
+Added Pin To Net: NetName=B5 Pin=c8t6-L-13
+Added Pin To Net: NetName=B6 Pin=c8t6-L-14
+Added Pin To Net: NetName=B7 Pin=c8t6-L-15
+Added Pin To Net: NetName=5V Pin=c8t6-L-18
+Added Pin To Net: NetName=GND Pin=c8t6-L-19
+Added Pin To Net: NetName=GND Pin=c8t6-R-1
+Added Pin To Net: NetName=GND Pin=c8t6-R-2
+Added Pin To Net: NetName=B11 Pin=c8t6-R-5
+Added Pin To Net: NetName=B10 Pin=c8t6-R-6
+Added Pin To Net: NetName=B1 Pin=c8t6-R-7
+Added Pin To Net: NetName=B0 Pin=c8t6-R-8
+Added Pin To Net: NetName=A7 Pin=c8t6-R-9
+Added Pin To Net: NetName=A5 Pin=c8t6-R-11
+Added Pin To Net: NetName=A4 Pin=c8t6-R-12
+Added Pin To Net: NetName=A1 Pin=c8t6-R-15
+Added Pin To Net: NetName=A0 Pin=c8t6-R-16
+Added Pin To Net: NetName=7.4V Pin=DC-DC-1
+Added Pin To Net: NetName=GND7.4V Pin=DC-DC-2
+Added Pin To Net: NetName=5V Pin=DC-DC-3
+Added Pin To Net: NetName=GND Pin=DC-DC-4
+Added Pin To Net: NetName=ML+ Pin=motor-L-1
+Added Pin To Net: NetName=GND Pin=motor-L-2
+Added Pin To Net: NetName=A0 Pin=motor-L-3
+Added Pin To Net: NetName=A1 Pin=motor-L-4
+Added Pin To Net: NetName=5V Pin=motor-L-5
+Added Pin To Net: NetName=ML- Pin=motor-L-6
+Added Pin To Net: NetName=MR+ Pin=motor-R-1
+Added Pin To Net: NetName=GND Pin=motor-R-2
+Added Pin To Net: NetName=B6 Pin=motor-R-3
+Added Pin To Net: NetName=B7 Pin=motor-R-4
+Added Pin To Net: NetName=5V Pin=motor-R-5
+Added Pin To Net: NetName=MR- Pin=motor-R-6
+Added Pin To Net: NetName=B5 Pin=mpu6050-2
+Added Pin To Net: NetName=B10 Pin=mpu6050-3
+Added Pin To Net: NetName=B11 Pin=mpu6050-4
+Added Pin To Net: NetName=GND Pin=mpu6050-5
+Added Pin To Net: NetName=5V Pin=mpu6050-6
+Added Pin To Net: NetName=GND Pin=oled-1
+Added Pin To Net: NetName=5V Pin=oled-2
+Added Pin To Net: NetName=A5 Pin=oled-3
+Added Pin To Net: NetName=A7 Pin=oled-4
+Added Pin To Net: NetName=B0 Pin=oled-5
+Added Pin To Net: NetName=B1 Pin=oled-6
+Added Pin To Net: NetName=A4 Pin=oled-7
+Added Pin To Net: NetName=7.4V Pin=POWER-7.4V-1
+Added Pin To Net: NetName=GND7.4V Pin=POWER-7.4V-2
+Added Pin To Net: NetName=7.4V Pin=tb6612-L-1
+Added Pin To Net: NetName=5V Pin=tb6612-L-2
+Added Pin To Net: NetName=GND Pin=tb6612-L-3
+Added Pin To Net: NetName=ML+ Pin=tb6612-L-4
+Added Pin To Net: NetName=ML- Pin=tb6612-L-5
+Added Pin To Net: NetName=MR+ Pin=tb6612-L-6
+Added Pin To Net: NetName=MR- Pin=tb6612-L-7
+Added Pin To Net: NetName=GND Pin=tb6612-L-8
+Added Pin To Net: NetName=A8 Pin=tb6612-R-1
+Added Pin To Net: NetName=B13 Pin=tb6612-R-2
+Added Pin To Net: NetName=B12 Pin=tb6612-R-3
+Added Pin To Net: NetName=5V Pin=tb6612-R-4
+Added Pin To Net: NetName=B14 Pin=tb6612-R-5
+Added Pin To Net: NetName=B15 Pin=tb6612-R-6
+Added Pin To Net: NetName=A11 Pin=tb6612-R-7
+Added Pin To Net: NetName=GND Pin=tb6612-R-8
+Added Pin To Net: NetName=GND Pin=UART-2
+Added Pin To Net: NetName=A10 Pin=UART-3
+Added Pin To Net: NetName=A9 Pin=UART-4
+Added Member To Class: ClassName=平衡车 Member=Component c8t6-L
+Added Member To Class: ClassName=平衡车 Member=Component c8t6-R
+Added Member To Class: ClassName=平衡车 Member=Component DC-DC
+Added Member To Class: ClassName=平衡车 Member=Component motor-L
+Added Member To Class: ClassName=平衡车 Member=Component motor-R
+Added Member To Class: ClassName=平衡车 Member=Component mpu6050
+Added Member To Class: ClassName=平衡车 Member=Component oled
+Added Member To Class: ClassName=平衡车 Member=Component POWER-7.4V
+Added Member To Class: ClassName=平衡车 Member=Component tb6612-L
+Added Member To Class: ClassName=平衡车 Member=Component tb6612-R
+Added Member To Class: ClassName=平衡车 Member=Component UART
